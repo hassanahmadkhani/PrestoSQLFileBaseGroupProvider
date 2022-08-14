@@ -2,7 +2,7 @@
 
 # Overview
 
-PrestoSQL Group Provider File is a PrestoSQL plugin to map user names to groups using an static file. 
+PrestoSQL Group Provider File is a PrestoSQL plugin to map user names to groups using a static file. 
 
 Its an implementation of PrestoSQL Group Provider, which will map groups from file with users.
 The groups can be further used for system and catalog authorization and RBAC implementation based on groups with Ranger.
