@@ -1,0 +1,3 @@
+developer=user1,user2
+dw=user3,user2
+bi=user5,user6
